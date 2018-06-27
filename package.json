@@ -17,10 +17,11 @@
 	"dependencies": {
 		"@wordpress/autop": "file:./packages/autop",
 		"@wordpress/babel-preset-default": "file:./packages/babel-preset-default",
+		"@wordpress/babel-plugin-makepot": "file:./packages/babel-plugin-makepot",
 		"@wordpress/browserslist-config": "file:./packages/browserslist-config",
+		"@wordpress/jest-console": "file:./packages/jest-console",
 		"@wordpress/jest-preset-default": "file:./packages/jest-preset-default",
 		"@wordpress/npm-package-json-lint-config": "file:./packages/npm-package-json-lint-config",
-		"@wordpress/babel-plugin-makepot": "file:./packages/babel-plugin-makepot",
 		"@wordpress/scripts": "file:./packages/scripts",
 		"@wordpress/url": "file:./packages/url",
 		"@wordpress/wordcount": "file:./packages/wordcount",
